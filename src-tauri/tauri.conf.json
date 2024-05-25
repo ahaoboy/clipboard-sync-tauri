@@ -1,6 +1,6 @@
 {
   "productName": "clipboard-sync-tauri",
-  "version": "0.0.0",
+  "version": "0.1.2",
   "identifier": "com.ahaoboy.dev",
   "build": {
     "beforeDevCommand": "pnpm dev",
